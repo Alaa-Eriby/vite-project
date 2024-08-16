@@ -1,0 +1,39 @@
+main{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-family:"Plus Jakarta Sans", sans-serif;;
+    background-color: rgb(191, 223, 251);
+   
+
+
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  font-family: "Plus Jakarta Sans", sans-serif;;
+  padding: 1.5rem 1rem 1rem;
+  background-color: hsl(211, 68%, 94%);
+  font-size: 16px;
+}
+
+#root{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+
+
+
